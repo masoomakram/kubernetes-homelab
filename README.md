@@ -1,2 +1,21 @@
-# kubernetes-homelab
-Hands-on Kubernetes home lab built using kubeadm on Linux VMs. Includes cluster setup, deployments, services, troubleshooting, and automation.
+# Kubernetes Home Lab
+
+Built a multi-node Kubernetes cluster using kubeadm on Linux virtual machines.
+
+## Skills Used
+- Linux Administration
+- Kubernetes
+- kubeadm
+- kubectl
+- Networking
+- Troubleshooting
+- Ansible
+
+## Tasks Completed
+- Cluster initialization
+- Worker node join
+- Pod deployments
+- Services & Ingress
+- Rolling updates
+- Scaling
+- Monitoring
