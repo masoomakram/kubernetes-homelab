@@ -111,6 +111,7 @@ Kubernetes tools installed
 Cluster initialization pending.
 
 🚀 Next Steps
+
 kubeadm init on control plane
 Configure kubectl
 Join worker nodes
