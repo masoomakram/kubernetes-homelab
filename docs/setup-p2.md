@@ -249,3 +249,20 @@ Explore Deployments and scaling
 Implement ConfigMaps and Secrets
 
 Introduce Calico and Network Policies later for advanced networking concepts
+
+## 📸 Screenshots
+
+### Control Plane Initialization
+![Init](../screenshots/control-plane-init.png)
+
+### Worker Node Join
+![Worker1](../screenshots/worker-join-01.png)
+
+### Worker Node Join
+![Worker2](../screenshots/worker-join-02.png)
+
+### Cluster Nodes Ready
+![Nodes](../screenshots/cluster-nodes-ready.png)
+
+### All Pods Running
+![Pods](../screenshots/pods-running.png)
