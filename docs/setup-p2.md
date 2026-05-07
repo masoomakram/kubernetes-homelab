@@ -253,16 +253,16 @@ Introduce Calico and Network Policies later for advanced networking concepts
 ## 📸 Screenshots
 
 ### Control Plane Initialization
-![Init](../screenshots/control-plane-init.png)
+![Init](../screenshots/control-plane-init.jpg)
 
 ### Worker Node Join
-![Worker1](../screenshots/worker-join-01.png)
+![Worker1](../screenshots/worker-join-01.jpg)
 
 ### Worker Node Join
-![Worker2](../screenshots/worker-join-02.png)
+![Worker2](../screenshots/worker-join-02.jpg)
 
 ### Cluster Nodes Ready
-![Nodes](../screenshots/cluster-nodes-ready.png)
+![Nodes](../screenshots/cluster-nodes-ready.jpg)
 
 ### All Pods Running
-![Pods](../screenshots/pods-running.png)
+![Pods](../screenshots/pods-running.jpg)
