@@ -4,6 +4,22 @@
 
 Initialize a multi-node Kubernetes cluster using kubeadm and configure pod networking across all nodes.
 
+🖥️ Environment
+
+Control Plane: kr-control-01 (192.168.14.128)
+
+Worker Nodes:
+
+kr-worker-01 (192.168.14.130)
+
+kr-worker-02 (192.168.14.131)
+
+OS: Rocky Linux
+
+Container Runtime: containerd
+
+Kubernetes Version: v1.36.0
+
 🚀 Control Plane Initialization
 
 Initialize Cluster
