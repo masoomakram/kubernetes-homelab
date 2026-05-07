@@ -256,13 +256,13 @@ Introduce Calico and Network Policies later for advanced networking concepts
 ![Init](../screenshots/control-plane-init.jpg)
 
 ### Worker Node Join
-![Worker1](../screenshots/worker-join-01.jpg)
+![Worker1](../screenshots/Worker01-joined.jpg)
 
 ### Worker Node Join
-![Worker2](../screenshots/worker-join-02.jpg)
+![Worker2](../screenshots/Worker02-joined.jpg)
 
 ### Cluster Nodes Ready
-![Nodes](../screenshots/cluster-nodes-ready.jpg)
+![Nodes](../screenshots/cluster-ready.jpg)
 
 ### All Pods Running
-![Pods](../screenshots/pods-running.jpg)
+![Pods](../screenshots/all-pods-running.jpg)
