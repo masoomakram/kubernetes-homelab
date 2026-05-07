@@ -30,4 +30,5 @@ Built a multi-node Kubernetes cluster using kubeadm on Rocky Linux virtual machi
 
 ## Documentation
 
-- [Setup Documentation](docs/setup.md)
+- [Setup Documentation Phase 1](docs/setup-p1.md)
+- [Setup Documentation Phase 2](docs/setup-p2.md)
